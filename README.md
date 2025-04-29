@@ -28,6 +28,7 @@ Welcome to my GitHub profile! Currently pursuing **BCA (Big Data Analytics)** at
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
 
+And More..
 ---
 
 ## 🌱 Currently Learning
@@ -36,13 +37,6 @@ Welcome to my GitHub profile! Currently pursuing **BCA (Big Data Analytics)** at
 - ☁️ Cloud storage integration for apps
 - 🧩 Firebase/FireStore
 - And More..
-
----
-
-## 📈 GitHub Stats
-
-![Krish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishwebdev&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishwebdev&layout=compact&theme=tokyonight)
 
 ---
 
