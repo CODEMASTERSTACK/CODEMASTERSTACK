@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm [Your Name]
+# 👋 Hey there, I'm Krish (Kripal Singh)!
 
-### Passionate Software Developer & Web Enthusiast
+### BCA Student | Big Data Analytics | Web Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Clean+Code+Advocate;Always+Learning+%F0%9F%9A%80;Building+Amazing+Web+Experiences" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Building+Practical+%26+Creative+Solutions;Web+Development+Enthusiast;DSA+Problem+Solver;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?style=for-the-badge&logo=github&labelColor=0d1117&color=58a6ff)](https://github.com/yourusername)
 [![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=58a6ff&labelColor=0d1117)](https://github.com/yourusername)
@@ -16,24 +16,22 @@
 ## 💫 About Me
 
 ```javascript
-const developer = {
-    name: "Your Name",
-    location: "Your Location",
-    code: ["JavaScript", "TypeScript", "Python", "HTML", "CSS"],
-    technologies: {
-        frontEnd: ["React", "Next.js", "Tailwind CSS", "Redux"],
-        backEnd: ["Node.js", "Express", "Django"],
-        databases: ["MongoDB", "PostgreSQL", "MySQL"],
-        tools: ["Git", "Docker", "AWS", "Figma"]
-    },
-    currentFocus: "Building scalable web applications",
-    funFact: "I debug with console.log() and I'm proud of it! 😄"
+const krish = {
+    fullName: "Kripal Singh",
+    nickname: "Krish",
+    education: "BCA (Big Data Analytics) @ LPU",
+    specialization: "IBM Big Data Analytics",
+    location: "Punjab, India",
+    interests: ["Web Development", "DSA", "Real-world Tech Solutions"],
+    currentlyLearning: ["Advanced DSA", "Cloud Integration", "Firebase/Firestore"],
+    askMeAbout: ["Web Dev", "JavaScript", "Python", "SQL", "Problem Solving"],
+    funFact: "I love merging practicality with creativity in every project! 🚀"
 };
 ```
 
 <div align="center">
 
-### 💻 What I Do
+### 💻 What I'm Working On
 
 </div>
 
@@ -41,24 +39,30 @@ const developer = {
 <tr>
 <td width="33%" valign="top">
 
-#### 🎨 Clean Code Advocate
-I believe in writing elegant, maintainable code that solves real-world problems and makes developers' lives easier.
+#### 💝 UniDate
+A Tinder-like web app exclusively for my college students to connect and network.
 
 </td>
 <td width="33%" valign="top">
 
-#### 🚀 Always Learning
-Constantly exploring new technologies, frameworks, and best practices to stay ahead in the ever-evolving tech landscape.
+#### 🔐 ForgetPass
+A secure password manager web app to keep your credentials safe and organized.
 
 </td>
 <td width="33%" valign="top">
 
-#### 🌐 Web Craftsman
-Creating beautiful, responsive, and performant web experiences that users love and remember.
+#### 📚 NotesLibrary
+A collaborative platform for students to share and access academic notes seamlessly.
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+#### 📖 Plus: An eBook reading platform integrating Project Gutenberg API & Google Drive!
+
+</div>
 
 ---
 
@@ -66,26 +70,24 @@ Creating beautiful, responsive, and performant web experiences that users love a
 
 <div align="center">
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Core Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ### Databases & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### Exploring
+![Apache Cordova](https://img.shields.io/badge/Cordova-E8E8E8?style=for-the-badge&logo=apache-cordova&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </div>
 
@@ -120,27 +122,43 @@ Creating beautiful, responsive, and performant web experiences that users love a
 
 ---
 
-## 🌟 Featured Projects
+## 🌱 Currently Learning
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/yourusername/project1)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/yourusername/project2)
+```
+🤖 Advanced Data Structures & Algorithms
+☁️ Cloud Storage Integration for Apps  
+🔥 Firebase/Firestore
+📱 Cross-platform Development with Cordova
+🌐 API Integration & Web Services
+```
 
 </div>
 
 ---
 
-## 💬 Let's Connect!
+## 🌟 Featured Projects
 
 <div align="center">
 
-**Building something amazing? Let's collaborate!**
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=UniDate&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/yourusername/UniDate)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=ForgetPass&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/yourusername/ForgetPass)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=NotesLibrary&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/yourusername/NotesLibrary)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+</div>
+
+---
+
+## 💬 Let's Connect & Collaborate!
+
+<div align="center">
+
+**Always open to collaboration and helping others with tech! 🤝**
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kripalsingh.work@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kripal-singh)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
 
 </div>
 
@@ -148,9 +166,9 @@ Creating beautiful, responsive, and performant web experiences that users love a
 
 <div align="center">
   
-### 💭 Random Dev Quote
+### 💭 Quote I Live By
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+*"The best way to predict the future is to create it."* – Abraham Lincoln
 
 ### 🐍 Contribution Snake
 
@@ -162,6 +180,8 @@ Creating beautiful, responsive, and performant web experiences that users love a
 
 <div align="center">
 
-**⭐ From [YourUsername](https://github.com/yourusername) | Feel free to star my repos if you find them interesting! ⭐**
+**⭐ Thanks for visiting! Feel free to explore my repositories and star the ones you find interesting! ⭐**
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
