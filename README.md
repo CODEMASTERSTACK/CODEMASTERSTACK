@@ -6,6 +6,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Building+Practical+%26+Creative+Solutions;Web+Development+Enthusiast;DSA+Problem+Solver;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
+[![GitHub followers](https://img.shields.io/github/followers/CODEMASTERSTACK?style=for-the-badge&logo=github&labelColor=0d1117&color=58a6ff)](https://github.com/CODEMASTERSTACK)
+[![Profile Views](https://komarev.com/ghpvc/?username=CODEMASTERSTACK&style=for-the-badge&color=58a6ff&labelColor=0d1117)](https://github.com/CODEMASTERSTACK)
+
 </div>
 
 ---
@@ -139,9 +142,10 @@ A collaborative platform for students to share and access academic notes seamles
 
 <div align="center">
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=CODEMASTERSTACK&repo=Sarthi---The-App&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/CODEMASTERSTACK/Sarthi---The-App)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=CODEMASTERSTACK&repo=Spotify-Extractor&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/CODEMASTERSTACK/Spotify-Extractor)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=CODEMASTERSTACK&repo=UniDate&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/CODEMASTERSTACK/UniDate)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=CODEMASTERSTACK&repo=ForgetPass&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/CODEMASTERSTACK/ForgetPass)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=CODEMASTERSTACK&repo=NotesLibrary&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/CODEMASTERSTACK/NotesLibrary)
 
 </div>
 
@@ -155,7 +159,7 @@ A collaborative platform for students to share and access academic notes seamles
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kripalsingh.work@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kripal-singh)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CODEMASTERSTACK)
 
 </div>
 
