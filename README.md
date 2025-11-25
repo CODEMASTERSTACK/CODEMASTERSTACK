@@ -42,11 +42,9 @@ And More..
 
 ## 📫 Connect With Me
 
-- 🌐 Website: [noteslibrary.com](https://noteslibrary.com)
 - 📮 Email: [kripalsingh.work@gmail.com](mailto:kripalsingh.work@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/kripal-singh](https://www.linkedin.com/in/kripal-singh)
 
 ---
 
 > “The best way to predict the future is to create it.” – Abraham Lincoln  
-Thanks for visiting my profile! Let’s build something amazing together 🚀
