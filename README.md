@@ -1,106 +1,189 @@
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020817,30:0a192f,60:020817,100:020817&height=200&section=header&text=KRIPAL%20SINGH&fontSize=65&fontColor=58a6ff&fontAlignY=55&animation=twinkling&desc=Full-Stack%20Web%20Dev%20%E2%80%A2%20Big%20Data%20Analytics%20%E2%80%A2%20Builder&descAlignY=78&descSize=16&descColor=8b949e&stroke=1f6feb&strokeWidth=2" width="100%"/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=header" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&duration=2000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=%5B+SYSTEM+BOOT+%5D+Initializing+profile...+%E2%9C%93;%5B+LOADED+%5D+BCA+%40+LPU+%7C+IBM+Big+Data+Analytics+%E2%9C%93;%5B+STATUS+%5D+Building+the+future%2C+one+commit+at+a+time+%E2%9C%93" alt="Typing SVG" />
 
-# Kripal Singh &nbsp;·&nbsp; `@CODEMASTERSTACK`
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=58A6FF&center=true&vCenter=true&width=480&lines=BCA+%E2%80%A2+Big+Data+Analytics+%40+LPU;Web+Developer+%E2%80%A2+Problem+Solver;Building+meaningful+things+one+commit+at+a+time." alt="Typing SVG" />
+<br>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=%24+whoami+%E2%86%92+Kripal+Singh+%2F+CODEMASTERSTACK;%24+location+%E2%86%92+Punjab%2C+India+%F0%9F%87%AE%F0%9F%87%B3;%24+status+%E2%86%92+Open+to+Collaborate+%F0%9F%9F%A2)](https://github.com/CODEMASTERSTACK)
 
 </div>
 
 ---
 
-## About
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-BCA student specializing in **IBM Big Data Analytics** at Lovely Professional University. I build web applications that solve real problems — from collaborative platforms to secure credential managers. Passionate about clean code, practical solutions, and continuous learning.
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp; `~/about-me`
 
-```js
-const krish = {
-  location : "Punjab, India",
-  focus    : ["Web Development", "DSA", "Real-world Tech"],
-  learning : ["Advanced DSA", "Firebase/Firestore", "Cloud Integration"],
-  building : ["UniDate", "ForgetPass", "NotesLibrary", "eBook Platform"],
-  contact  : "kripalsingh.work@gmail.com"
-}
+<img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+```yaml
+┌─────────────────────────────────────────────┐
+│           SYSTEM PROFILE v2.0               │
+├─────────────────────────────────────────────┤
+│  Name     │  Kripal Singh (Krish)           │
+│  Handle   │  @CODEMASTERSTACK               │
+│  Degree   │  BCA — Big Data Analytics       │
+│  Varsity  │  Lovely Professional University │
+│  Spec     │  IBM Big Data Analytics         │
+│  OS       │  Windows + WSL (btw)            │
+│  Editor   │  VS Code  ❤️                    │
+│  Status   │  Building cool things... 🚀     │
+└─────────────────────────────────────────────┘
+
+CURRENTLY_HACKING_ON = [
+  "UniDate      → Tinder for college students",
+  "ForgetPass   → Secure password manager",
+  "NotesLibrary → Student notes platform",
+  "eBook App    → Gutenberg API + Google Drive",
+]
+
+FUN_FACT = "I debug with console.log and I'm not ashamed."
 ```
 
----
+<br clear="right"/>
 
-## Projects
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-| | Project | Description |
-|---|---------|-------------|
-| 💝 | **[UniDate](https://github.com/CODEMASTERSTACK/UniDate)** | Tinder-style networking app exclusively for college students |
-| 🔐 | **[ForgetPass](https://github.com/CODEMASTERSTACK/ForgetPass)** | Secure, organized password manager for the web |
-| 📚 | **[NotesLibrary](https://github.com/CODEMASTERSTACK/NotesLibrary)** | Collaborative student notes sharing platform |
-| 📖 | **eBook Platform** | eBook reader integrating Project Gutenberg API & Google Drive |
-| 🧭 | **[Sarthi](https://github.com/CODEMASTERSTACK/Sarthi---The-App)** | Featured mobile-first navigation & helper app |
-| 🎵 | **[Spotify Extractor](https://github.com/CODEMASTERSTACK/Spotify-Extractor)** | Tool to extract and manage Spotify data |
-
----
-
-## Stack
-
-**Languages**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-
-**Databases & Services**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-**Exploring**
-
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Cordova](https://img.shields.io/badge/Cordova-E8E8E8?style=flat-square&logo=apache-cordova&logoColor=black)
-
----
-
-## Stats
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp; `~/tech-stack`
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=CODEMASTERSTACK&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&rank_icon=github" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=CODEMASTERSTACK&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
+### ◈ Languages
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODEMASTERSTACK&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java&theme=dark&perline=5" />
+</p>
+
+### ◈ Databases & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,vscode&theme=dark&perline=5" />
+</p>
+
+### ◈ Exploring & Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=gcp,androidstudio,postman,figma,linux&theme=dark&perline=5" />
+</p>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## Contribution
+## 🚀 &nbsp; `~/featured-projects`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CODEMASTERSTACK&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" width="100%" />
-
-![Snake animation](https://raw.githubusercontent.com/CODEMASTERSTACK/CODEMASTERSTACK/output/github-contribution-grid-snake-dark.svg)
+<a href="https://github.com/CODEMASTERSTACK/Sarthi---The-App">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CODEMASTERSTACK&repo=Sarthi---The-App&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&border_color=30363d" />
+</a>
+<a href="https://github.com/CODEMASTERSTACK/Spotify-Extractor">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CODEMASTERSTACK&repo=Spotify-Extractor&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&border_color=30363d" />
+</a>
 
 </div>
 
----
-
-## Connect
+<br>
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-kripalsingh.work%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kripalsingh.work@gmail.com)
+|  | Project | Tech | Status |
+|:---:|---------|------|:------:|
+| 💝 | **[UniDate](https://github.com/CODEMASTERSTACK/UniDate)** — College networking app | `JS` `Firebase` `HTML/CSS` | 🔨 Building |
+| 🔐 | **[ForgetPass](https://github.com/CODEMASTERSTACK/ForgetPass)** — Secure password manager | `JS` `Firebase` `Encryption` | 🔨 Building |
+| 📚 | **[NotesLibrary](https://github.com/CODEMASTERSTACK/NotesLibrary)** — Student notes platform | `JS` `Firebase` `HTML/CSS` | 🔨 Building |
+| 📖 | **eBook Platform** — Gutenberg API + Drive reader | `JS` `REST API` `Google Drive` | 🌱 Planned |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📊 &nbsp; `~/github-stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=CODEMASTERSTACK&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&ring_color=1f6feb&include_all_commits=true&count_private=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CODEMASTERSTACK&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" height="165" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODEMASTERSTACK&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" height="200"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🏆 &nbsp; `~/achievements`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=CODEMASTERSTACK&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" width="100%" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📈 &nbsp; `~/activity`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CODEMASTERSTACK&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Graph%20%7C%20CODEMASTERSTACK" width="100%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/CODEMASTERSTACK/CODEMASTERSTACK/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🌐 &nbsp; `~/connect`
+
+<div align="center">
+
+<a href="mailto:kripalsingh.work@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-kripalsingh.work%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+</a>
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/kripal-singh">
+  <img src="https://img.shields.io/badge/LinkedIn-Kripal%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+</a>
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kripal--singh-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kripal-singh)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-CODEMASTERSTACK-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CODEMASTERSTACK)
+<a href="https://github.com/CODEMASTERSTACK">
+  <img src="https://img.shields.io/badge/GitHub-CODEMASTERSTACK-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+</a>
 
-*Open to collaboration, open source contributions, and interesting conversations.*
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=CODEMASTERSTACK&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it.&author=Abraham%20Lincoln" />
+
+<br/>
+
+```
+╔══════════════════════════════════════════════════════╗
+║   Thanks for visiting! Drop a ⭐ if you liked it!   ║
+║          Let's build something amazing 🚀            ║
+╚══════════════════════════════════════════════════════╝
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020817,40:0a192f,70:1f6feb,100:58a6ff&height=120&section=footer&animation=twinkling" width="100%"/>
+
+</div>
