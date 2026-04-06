@@ -92,7 +92,7 @@ FUN_FACT = "I debug with console.log and I'm not ashamed."
 
 |  | Project | Tech | Status |
 |:---:|---------|------|:------:|
-| 💝 | **[UniDate](https://github.com/CODEMASTERSTACK/UniDate)** — College networking app | `JS` `Firebase` `HTML/CSS` | 🔨 Building |
+| 💝 | **[UniDate](https://github.com/CODEMASTERSTACK/UniDate)** — College networking app | `Flutter` `Firebase` `Clerk` ` CloudFlare` | 🔨 Building |
 | 🔐 | **[ForgetPass](https://github.com/CODEMASTERSTACK/ForgetPass)** — Secure password manager | `JS` `Firebase` `Encryption` | 🔨 Building |
 | 📚 | **[NotesLibrary](https://github.com/CODEMASTERSTACK/NotesLibrary)** — Student notes platform | `JS` `Firebase` `HTML/CSS` | 🔨 Building |
 | 📖 | **eBook Platform** — Gutenberg API + Drive reader | `JS` `REST API` `Google Drive` | 🌱 Planned |
@@ -152,7 +152,7 @@ FUN_FACT = "I debug with console.log and I'm not ashamed."
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/kripal-singh">
+<a href="http://www.linkedin.com/in/Kripal-singhh/ ">
   <img src="https://img.shields.io/badge/LinkedIn-Kripal%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
 </a>
 &nbsp;
@@ -161,8 +161,6 @@ FUN_FACT = "I debug with console.log and I'm not ashamed."
 </a>
 
 <br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=CODEMASTERSTACK&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
