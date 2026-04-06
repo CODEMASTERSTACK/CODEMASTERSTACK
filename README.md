@@ -16,11 +16,11 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp; `~/about-me`
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30"> &nbsp; `~/about-me`
 
-<img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding" width="340" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 
 ```yaml
 ┌─────────────────────────────────────────────┐
@@ -48,9 +48,9 @@ FUN_FACT = "I debug with console.log and I'm not ashamed."
 
 <br clear="right"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp; `~/tech-stack`
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="28"> &nbsp; `~/tech-stack`
 
 <div align="center">
 
@@ -74,18 +74,15 @@ FUN_FACT = "I debug with console.log and I'm not ashamed."
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🚀 &nbsp; `~/featured-projects`
 
 <div align="center">
 
-<a href="https://github.com/CODEMASTERSTACK/Sarthi---The-App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CODEMASTERSTACK&repo=Sarthi---The-App&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&border_color=30363d" />
-</a>
-<a href="https://github.com/CODEMASTERSTACK/Spotify-Extractor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CODEMASTERSTACK&repo=Spotify-Extractor&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&border_color=30363d" />
-</a>
+[![Sarthi](https://img.shields.io/badge/🧭_Sarthi__The_App-View_Repo-58a6ff?style=for-the-badge&labelColor=0d1117&color=1f6feb)](https://github.com/CODEMASTERSTACK/Sarthi---The-App)
+&nbsp;
+[![Spotify Extractor](https://img.shields.io/badge/🎵_Spotify_Extractor-View_Repo-58a6ff?style=for-the-badge&labelColor=0d1117&color=1f6feb)](https://github.com/CODEMASTERSTACK/Spotify-Extractor)
 
 </div>
 
@@ -102,14 +99,14 @@ FUN_FACT = "I debug with console.log and I'm not ashamed."
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 📊 &nbsp; `~/github-stats`
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=CODEMASTERSTACK&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&ring_color=1f6feb&include_all_commits=true&count_private=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CODEMASTERSTACK&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" height="165" />
+<img src="https://streak-stats.demolab.com?user=CODEMASTERSTACK&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" height="165" />
 
 <br/>
 
@@ -117,7 +114,7 @@ FUN_FACT = "I debug with console.log and I'm not ashamed."
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🏆 &nbsp; `~/achievements`
 
@@ -127,7 +124,7 @@ FUN_FACT = "I debug with console.log and I'm not ashamed."
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 📈 &nbsp; `~/activity`
 
@@ -143,7 +140,7 @@ FUN_FACT = "I debug with console.log and I'm not ashamed."
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🌐 &nbsp; `~/connect`
 
@@ -169,7 +166,7 @@ FUN_FACT = "I debug with console.log and I'm not ashamed."
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <div align="center">
 
