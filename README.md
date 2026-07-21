@@ -4,7 +4,14 @@
   your-linkedin            → your LinkedIn handle
   your-site.dev            → your portfolio URL (delete the badge if you don't have one)
   repo-name-two/three      → the exact (case-sensitive) repo names for the pinned-project cards
-  Data & Analytics row     → swap in whichever tools you actually use day to day
+
+  Note on // 05 · metrics:
+  The stats/top-langs/pin cards call the public github-readme-stats.vercel.app instance,
+  which is shared across thousands of profiles and rate-limits during peak hours — a known,
+  widely-reported issue with that free service, not a bug in this file. cache_seconds=86400
+  below reduces how often it re-hits the limit. If it still breaks often, self-hosting your
+  own instance (documented at github.com/anuraghazra/github-readme-stats) fixes it for good.
+  The activity graph below runs on a separate service and isn't affected by this.
 -->
 
 <div align="center">
@@ -19,11 +26,9 @@
 
 <br>
 
-```
-$ whoami
-Kripal — Big Data Analytics · Software Engineering
-based in India · shipping in public, one commit at a time
-```
+<div align="center">
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQwIiBoZWlnaHQ9IjIxNiIgdmlld0JveD0iMCAwIDY0MCAyMTYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8Y2xpcFBhdGggaWQ9ImNhcmQtY2xpcCI+CiAgICAgIDxyZWN0IHg9IjAuNSIgeT0iMC41IiB3aWR0aD0iNjM5IiBoZWlnaHQ9IjIxNSIgcng9IjEyIiByeT0iMTIiLz4KICAgIDwvY2xpcFBhdGg+CiAgPC9kZWZzPgoKICA8ZyBjbGlwLXBhdGg9InVybCgjY2FyZC1jbGlwKSI+CiAgICA8cmVjdCB4PSIwLjUiIHk9IjAuNSIgd2lkdGg9IjYzOSIgaGVpZ2h0PSIyMTUiIGZpbGw9IiMwRDExMTciLz4KICAgIDxyZWN0IHg9IjAuNSIgeT0iMC41IiB3aWR0aD0iNjM5IiBoZWlnaHQ9IjM4IiBmaWxsPSIjMTIxNjFGIi8+CiAgICA8bGluZSB4MT0iMCIgeTE9IjM4LjUiIHgyPSI2NDAiIHkyPSIzOC41IiBzdHJva2U9IiMxRjI3MzMiIHN0cm9rZS13aWR0aD0iMSIvPgoKICAgIDxjaXJjbGUgY3g9IjI0IiBjeT0iMTkiIHI9IjYiIGZpbGw9IiNGRjVGNTYiLz4KICAgIDxjaXJjbGUgY3g9IjQ2IiBjeT0iMTkiIHI9IjYiIGZpbGw9IiNGRkJEMkUiLz4KICAgIDxjaXJjbGUgY3g9IjY4IiBjeT0iMTkiIHI9IjYiIGZpbGw9IiMyN0M5M0YiLz4KCiAgICA8dGV4dCB4PSIzMjAiIHk9IjI0IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iTWVubG8sIENvbnNvbGFzLCAnQ291cmllciBOZXcnLCBtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9IiM2QjcyODAiPmtyaXBhbEBjb2RlbWFzdGVyc3RhY2sg4oCUIHpzaDwvdGV4dD4KCiAgICA8dGV4dCBmb250LWZhbWlseT0iTWVubG8sIENvbnNvbGFzLCAnQ291cmllciBOZXcnLCBtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTQiPgogICAgICA8dHNwYW4geD0iMjQiIHk9IjcyIiBmaWxsPSIjNkVFN0Y5IiBmb250LXdlaWdodD0iYm9sZCI+4p2vPC90c3Bhbj4KICAgICAgPHRzcGFuIGZpbGw9IiNDOUQxRDkiPiB3aG9hbWk8L3RzcGFuPgogICAgPC90ZXh0PgoKICAgIDx0ZXh0IGZvbnQtZmFtaWx5PSJNZW5sbywgQ29uc29sYXMsICdDb3VyaWVyIE5ldycsIG1vbm9zcGFjZSIgZm9udC1zaXplPSIxOSIgZm9udC13ZWlnaHQ9IjYwMCI+CiAgICAgIDx0c3BhbiB4PSI0NCIgeT0iMTAwIiBmaWxsPSIjQTc4QkZBIj5LcmlwYWwgU2luZ2g8L3RzcGFuPgogICAgPC90ZXh0PgogICAgPHRleHQgZm9udC1mYW1pbHk9Ik1lbmxvLCBDb25zb2xhcywgJ0NvdXJpZXIgTmV3JywgbW9ub3NwYWNlIiBmb250LXNpemU9IjEzIj4KICAgICAgPHRzcGFuIHg9IjQ0IiB5PSIxMjIiIGZpbGw9IiM4Qjk0OUUiPkJpZyBEYXRhIEFuYWx5dGljcyDCtyBTb2Z0d2FyZSBFbmdpbmVlcjwvdHNwYW4+CiAgICA8L3RleHQ+CgogICAgPHRleHQgZm9udC1mYW1pbHk9Ik1lbmxvLCBDb25zb2xhcywgJ0NvdXJpZXIgTmV3JywgbW9ub3NwYWNlIiBmb250LXNpemU9IjE0Ij4KICAgICAgPHRzcGFuIHg9IjI0IiB5PSIxNTYiIGZpbGw9IiM2RUU3RjkiIGZvbnQtd2VpZ2h0PSJib2xkIj7ina88L3RzcGFuPgogICAgICA8dHNwYW4gZmlsbD0iI0M5RDFEOSI+IHN0YXR1czwvdHNwYW4+CiAgICA8L3RleHQ+CiAgICA8dGV4dCBmb250LWZhbWlseT0iTWVubG8sIENvbnNvbGFzLCAnQ291cmllciBOZXcnLCBtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTMiPgogICAgICA8dHNwYW4geD0iNDQiIHk9IjE3OCIgZmlsbD0iIzhCOTQ5RSI+c2hpcHBpbmcgaW4gcHVibGljIOKAlCBvbmUgY29tbWl0IGF0IGEgdGltZTwvdHNwYW4+CiAgICA8L3RleHQ+CgogICAgPHRleHQgZm9udC1mYW1pbHk9Ik1lbmxvLCBDb25zb2xhcywgJ0NvdXJpZXIgTmV3JywgbW9ub3NwYWNlIiBmb250LXNpemU9IjE0Ij4KICAgICAgPHRzcGFuIHg9IjI0IiB5PSIyMDAiIGZpbGw9IiM2RUU3RjkiIGZvbnQtd2VpZ2h0PSJib2xkIj7ina88L3RzcGFuPgogICAgICA8dHNwYW4gZmlsbD0iIzU2NUQ2OCIgZm9udC1zdHlsZT0iaXRhbGljIj4gXzwvdHNwYW4+CiAgICA8L3RleHQ+CiAgPC9nPgoKICA8cmVjdCB4PSIwLjUiIHk9IjAuNSIgd2lkdGg9IjYzOSIgaGVpZ2h0PSIyMTUiIHJ4PSIxMiIgcnk9IjEyIiBmaWxsPSJub25lIiBzdHJva2U9IiMxRjI3MzMiIHN0cm9rZS13aWR0aD0iMSIvPgo8L3N2Zz4K" width="560" alt="Kripal Singh — whoami terminal card"/>
+</div>
 
 <br>
 
@@ -37,30 +42,36 @@ Outside of backend work, I spend time on SEO strategy and structured, zero-budge
 
 ##### `// 02 · stack`
 
-**Languages & Web**
+<table>
+<tr>
+<td valign="top" width="33%">
 
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,react&theme=dark" />
+**Frontend**
 
-**Backend & Cloud**
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark" /><br/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,py,firebase,gcp,git,github&theme=dark" />
-<br>
+</td>
+<td valign="top" width="33%">
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,py,firebase,gcp,mysql,postgres&theme=dark" /><br/><br/>
 <img src="https://img.shields.io/badge/Cloudflare_Workers-0D1117?style=flat-square&logo=cloudflareworkers&logoColor=F38020" />
-<img src="https://img.shields.io/badge/Firestore-0D1117?style=flat-square&logo=firebase&logoColor=A78BFA" />
 <img src="https://img.shields.io/badge/Gemini_API-0D1117?style=flat-square&logo=googlegemini&logoColor=6EE7F9" />
 
-**Data & Analytics**
+</td>
+<td valign="top" width="33%">
 
-<img src="https://skillicons.dev/icons?i=py,mysql,postgres&theme=dark" />
-<br>
+**Tools / Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" /><br/><br/>
 <img src="https://img.shields.io/badge/Excel-0D1117?style=flat-square&logo=microsoftexcel&logoColor=217346" />
 <img src="https://img.shields.io/badge/Power_BI-0D1117?style=flat-square&logo=powerbi&logoColor=F2C811" />
-
-**Tools & Ops**
-
-<img src="https://skillicons.dev/icons?i=figma,tailwind,vscode&theme=dark" />
-<br>
 <img src="https://img.shields.io/badge/Zoho_CRM-0D1117?style=flat-square&logo=zoho&logoColor=E42527" />
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -87,8 +98,8 @@ A full-stack SaaS app on a serverless backend: Google Sign-In through Firebase, 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CODEMASTERSTACK&repo=repo-name-two&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=6EE7F9&icon_color=A78BFA&text_color=8B949E" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CODEMASTERSTACK&repo=repo-name-three&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=6EE7F9&icon_color=A78BFA&text_color=8B949E" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=CODEMASTERSTACK&repo=repo-name-two&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=6EE7F9&icon_color=A78BFA&text_color=8B949E&cache_seconds=86400" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=CODEMASTERSTACK&repo=repo-name-three&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=6EE7F9&icon_color=A78BFA&text_color=8B949E&cache_seconds=86400" height="150"/>
 
 </div>
 
@@ -106,10 +117,10 @@ A full-stack SaaS app on a serverless backend: Google Sign-In through Firebase, 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CODEMASTERSTACK&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=6EE7F9&icon_color=A78BFA&text_color=8B949E" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODEMASTERSTACK&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=6EE7F9&text_color=8B949E" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=CODEMASTERSTACK&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=6EE7F9&icon_color=A78BFA&text_color=8B949E&cache_seconds=86400" height="165" alt="Kripal Singh's GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODEMASTERSTACK&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=6EE7F9&text_color=8B949E&cache_seconds=86400" height="165" alt="Kripal Singh's most used languages"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CODEMASTERSTACK&theme=github-compact&bg_color=0D1117&color=6EE7F9&line=A78BFA&point=8B949E&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CODEMASTERSTACK&theme=github-compact&bg_color=0D1117&color=6EE7F9&line=A78BFA&point=8B949E&hide_border=true" width="100%" alt="Kripal Singh's contribution activity"/>
 
 </div>
 
