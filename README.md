@@ -26,10 +26,52 @@
 
 <br>
 
-<div align="center">
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQwIiBoZWlnaHQ9IjIxNiIgdmlld0JveD0iMCAwIDY0MCAyMTYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8Y2xpcFBhdGggaWQ9ImNhcmQtY2xpcCI+CiAgICAgIDxyZWN0IHg9IjAuNSIgeT0iMC41IiB3aWR0aD0iNjM5IiBoZWlnaHQ9IjIxNSIgcng9IjEyIiByeT0iMTIiLz4KICAgIDwvY2xpcFBhdGg+CiAgPC9kZWZzPgoKICA8ZyBjbGlwLXBhdGg9InVybCgjY2FyZC1jbGlwKSI+CiAgICA8cmVjdCB4PSIwLjUiIHk9IjAuNSIgd2lkdGg9IjYzOSIgaGVpZ2h0PSIyMTUiIGZpbGw9IiMwRDExMTciLz4KICAgIDxyZWN0IHg9IjAuNSIgeT0iMC41IiB3aWR0aD0iNjM5IiBoZWlnaHQ9IjM4IiBmaWxsPSIjMTIxNjFGIi8+CiAgICA8bGluZSB4MT0iMCIgeTE9IjM4LjUiIHgyPSI2NDAiIHkyPSIzOC41IiBzdHJva2U9IiMxRjI3MzMiIHN0cm9rZS13aWR0aD0iMSIvPgoKICAgIDxjaXJjbGUgY3g9IjI0IiBjeT0iMTkiIHI9IjYiIGZpbGw9IiNGRjVGNTYiLz4KICAgIDxjaXJjbGUgY3g9IjQ2IiBjeT0iMTkiIHI9IjYiIGZpbGw9IiNGRkJEMkUiLz4KICAgIDxjaXJjbGUgY3g9IjY4IiBjeT0iMTkiIHI9IjYiIGZpbGw9IiMyN0M5M0YiLz4KCiAgICA8dGV4dCB4PSIzMjAiIHk9IjI0IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iTWVubG8sIENvbnNvbGFzLCAnQ291cmllciBOZXcnLCBtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9IiM2QjcyODAiPmtyaXBhbEBjb2RlbWFzdGVyc3RhY2sg4oCUIHpzaDwvdGV4dD4KCiAgICA8dGV4dCBmb250LWZhbWlseT0iTWVubG8sIENvbnNvbGFzLCAnQ291cmllciBOZXcnLCBtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTQiPgogICAgICA8dHNwYW4geD0iMjQiIHk9IjcyIiBmaWxsPSIjNkVFN0Y5IiBmb250LXdlaWdodD0iYm9sZCI+4p2vPC90c3Bhbj4KICAgICAgPHRzcGFuIGZpbGw9IiNDOUQxRDkiPiB3aG9hbWk8L3RzcGFuPgogICAgPC90ZXh0PgoKICAgIDx0ZXh0IGZvbnQtZmFtaWx5PSJNZW5sbywgQ29uc29sYXMsICdDb3VyaWVyIE5ldycsIG1vbm9zcGFjZSIgZm9udC1zaXplPSIxOSIgZm9udC13ZWlnaHQ9IjYwMCI+CiAgICAgIDx0c3BhbiB4PSI0NCIgeT0iMTAwIiBmaWxsPSIjQTc4QkZBIj5LcmlwYWwgU2luZ2g8L3RzcGFuPgogICAgPC90ZXh0PgogICAgPHRleHQgZm9udC1mYW1pbHk9Ik1lbmxvLCBDb25zb2xhcywgJ0NvdXJpZXIgTmV3JywgbW9ub3NwYWNlIiBmb250LXNpemU9IjEzIj4KICAgICAgPHRzcGFuIHg9IjQ0IiB5PSIxMjIiIGZpbGw9IiM4Qjk0OUUiPkJpZyBEYXRhIEFuYWx5dGljcyDCtyBTb2Z0d2FyZSBFbmdpbmVlcjwvdHNwYW4+CiAgICA8L3RleHQ+CgogICAgPHRleHQgZm9udC1mYW1pbHk9Ik1lbmxvLCBDb25zb2xhcywgJ0NvdXJpZXIgTmV3JywgbW9ub3NwYWNlIiBmb250LXNpemU9IjE0Ij4KICAgICAgPHRzcGFuIHg9IjI0IiB5PSIxNTYiIGZpbGw9IiM2RUU3RjkiIGZvbnQtd2VpZ2h0PSJib2xkIj7ina88L3RzcGFuPgogICAgICA8dHNwYW4gZmlsbD0iI0M5RDFEOSI+IHN0YXR1czwvdHNwYW4+CiAgICA8L3RleHQ+CiAgICA8dGV4dCBmb250LWZhbWlseT0iTWVubG8sIENvbnNvbGFzLCAnQ291cmllciBOZXcnLCBtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTMiPgogICAgICA8dHNwYW4geD0iNDQiIHk9IjE3OCIgZmlsbD0iIzhCOTQ5RSI+c2hpcHBpbmcgaW4gcHVibGljIOKAlCBvbmUgY29tbWl0IGF0IGEgdGltZTwvdHNwYW4+CiAgICA8L3RleHQ+CgogICAgPHRleHQgZm9udC1mYW1pbHk9Ik1lbmxvLCBDb25zb2xhcywgJ0NvdXJpZXIgTmV3JywgbW9ub3NwYWNlIiBmb250LXNpemU9IjE0Ij4KICAgICAgPHRzcGFuIHg9IjI0IiB5PSIyMDAiIGZpbGw9IiM2RUU3RjkiIGZvbnQtd2VpZ2h0PSJib2xkIj7ina88L3RzcGFuPgogICAgICA8dHNwYW4gZmlsbD0iIzU2NUQ2OCIgZm9udC1zdHlsZT0iaXRhbGljIj4gXzwvdHNwYW4+CiAgICA8L3RleHQ+CiAgPC9nPgoKICA8cmVjdCB4PSIwLjUiIHk9IjAuNSIgd2lkdGg9IjYzOSIgaGVpZ2h0PSIyMTUiIHJ4PSIxMiIgcnk9IjEyIiBmaWxsPSJub25lIiBzdHJva2U9IiMxRjI3MzMiIHN0cm9rZS13aWR0aD0iMSIvPgo8L3N2Zz4K" width="560" alt="Kripal Singh — whoami terminal card"/>
-</div>
+<svg width="640" height="216" viewBox="0 0 640 216" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="card-clip">
+      <rect x="0.5" y="0.5" width="639" height="215" rx="12" ry="12"/>
+    </clipPath>
+  </defs>
 
+  <g clip-path="url(#card-clip)">
+    <rect x="0.5" y="0.5" width="639" height="215" fill="#0D1117"/>
+    <rect x="0.5" y="0.5" width="639" height="38" fill="#12161F"/>
+    <line x1="0" y1="38.5" x2="640" y2="38.5" stroke="#1F2733" stroke-width="1"/>
+
+    <circle cx="24" cy="19" r="6" fill="#FF5F56"/>
+    <circle cx="46" cy="19" r="6" fill="#FFBD2E"/>
+    <circle cx="68" cy="19" r="6" fill="#27C93F"/>
+
+    <text x="320" y="24" text-anchor="middle" font-family="Menlo, Consolas, 'Courier New', monospace" font-size="12" fill="#6B7280">kripal@codemasterstack — zsh</text>
+
+    <text font-family="Menlo, Consolas, 'Courier New', monospace" font-size="14">
+      <tspan x="24" y="72" fill="#6EE7F9" font-weight="bold">❯</tspan>
+      <tspan fill="#C9D1D9"> whoami</tspan>
+    </text>
+
+    <text font-family="Menlo, Consolas, 'Courier New', monospace" font-size="19" font-weight="600">
+      <tspan x="44" y="100" fill="#A78BFA">Kripal Singh</tspan>
+    </text>
+    <text font-family="Menlo, Consolas, 'Courier New', monospace" font-size="13">
+      <tspan x="44" y="122" fill="#8B949E">Big Data Analytics · Software Engineer</tspan>
+    </text>
+
+    <text font-family="Menlo, Consolas, 'Courier New', monospace" font-size="14">
+      <tspan x="24" y="156" fill="#6EE7F9" font-weight="bold">❯</tspan>
+      <tspan fill="#C9D1D9"> status</tspan>
+    </text>
+    <text font-family="Menlo, Consolas, 'Courier New', monospace" font-size="13">
+      <tspan x="44" y="178" fill="#8B949E">shipping in public — one commit at a time</tspan>
+    </text>
+
+    <text font-family="Menlo, Consolas, 'Courier New', monospace" font-size="14">
+      <tspan x="24" y="200" fill="#6EE7F9" font-weight="bold">❯</tspan>
+      <tspan fill="#565D68" font-style="italic"> _</tspan>
+    </text>
+  </g>
+
+  <rect x="0.5" y="0.5" width="639" height="215" rx="12" ry="12" fill="none" stroke="#1F2733" stroke-width="1"/>
+</svg>
 <br>
 
 ##### `// 01 · overview`
