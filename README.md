@@ -41,10 +41,10 @@
 └─────────────────────────────────────────────┘
 
 CURRENTLY_WORKING_ON = [
-  "UniDate      → Tinder for college students",
+  "UniDate                                → Tinder for college students",
   "Intelligent Real Time Trading System   → AI-powered, full-stack trading intelligence platform for Indian stock markets ",
-  "AiTUTOR → MentorScope is a highly advanced, end-to-end AI recruitment and assessment platform.",
-  "CommonCummunicationFabric    → A cross-platform application that enables real-time communication between your phone, PC, and laptop over a local network.",
+  "AiTUTOR                                → MentorScope is a highly advanced, end-to-end AI recruitment and assessment                                                   platform.",
+  "CommonCummunicationFabric              → A cross-platform application that enables real-time communication between your                                               phone, PC, and laptop over a local network.",
 ]
 
 ```
