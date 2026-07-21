@@ -12,6 +12,11 @@
   below reduces how often it re-hits the limit. If it still breaks often, self-hosting your
   own instance (documented at github.com/anuraghazra/github-readme-stats) fixes it for good.
   The activity graph below runs on a separate service and isn't affected by this.
+
+  IMPORTANT — the whoami card below is a real file, not embedded data:
+  GitHub strips data:// image URIs when it renders a README, so this points to
+  assets/whoami.svg instead. Keep that file in an `assets/` folder next to this
+  README.md when you push the repo, or the image won't resolve.
 -->
 
 <div align="center">
@@ -26,52 +31,10 @@
 
 <br>
 
-<svg width="640" height="216" viewBox="0 0 640 216" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <clipPath id="card-clip">
-      <rect x="0.5" y="0.5" width="639" height="215" rx="12" ry="12"/>
-    </clipPath>
-  </defs>
+<div align="center">
+<img src="assets/whoami.svg" width="560" alt="Kripal Singh — whoami terminal card"/>
+</div>
 
-  <g clip-path="url(#card-clip)">
-    <rect x="0.5" y="0.5" width="639" height="215" fill="#0D1117"/>
-    <rect x="0.5" y="0.5" width="639" height="38" fill="#12161F"/>
-    <line x1="0" y1="38.5" x2="640" y2="38.5" stroke="#1F2733" stroke-width="1"/>
-
-    <circle cx="24" cy="19" r="6" fill="#FF5F56"/>
-    <circle cx="46" cy="19" r="6" fill="#FFBD2E"/>
-    <circle cx="68" cy="19" r="6" fill="#27C93F"/>
-
-    <text x="320" y="24" text-anchor="middle" font-family="Menlo, Consolas, 'Courier New', monospace" font-size="12" fill="#6B7280">kripal@codemasterstack — zsh</text>
-
-    <text font-family="Menlo, Consolas, 'Courier New', monospace" font-size="14">
-      <tspan x="24" y="72" fill="#6EE7F9" font-weight="bold">❯</tspan>
-      <tspan fill="#C9D1D9"> whoami</tspan>
-    </text>
-
-    <text font-family="Menlo, Consolas, 'Courier New', monospace" font-size="19" font-weight="600">
-      <tspan x="44" y="100" fill="#A78BFA">Kripal Singh</tspan>
-    </text>
-    <text font-family="Menlo, Consolas, 'Courier New', monospace" font-size="13">
-      <tspan x="44" y="122" fill="#8B949E">Big Data Analytics · Software Engineer</tspan>
-    </text>
-
-    <text font-family="Menlo, Consolas, 'Courier New', monospace" font-size="14">
-      <tspan x="24" y="156" fill="#6EE7F9" font-weight="bold">❯</tspan>
-      <tspan fill="#C9D1D9"> status</tspan>
-    </text>
-    <text font-family="Menlo, Consolas, 'Courier New', monospace" font-size="13">
-      <tspan x="44" y="178" fill="#8B949E">shipping in public — one commit at a time</tspan>
-    </text>
-
-    <text font-family="Menlo, Consolas, 'Courier New', monospace" font-size="14">
-      <tspan x="24" y="200" fill="#6EE7F9" font-weight="bold">❯</tspan>
-      <tspan fill="#565D68" font-style="italic"> _</tspan>
-    </text>
-  </g>
-
-  <rect x="0.5" y="0.5" width="639" height="215" rx="12" ry="12" fill="none" stroke="#1F2733" stroke-width="1"/>
-</svg>
 <br>
 
 ##### `// 01 · overview`
