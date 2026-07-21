@@ -66,7 +66,7 @@ I care more about *why* a system is correct than whether it merely works — ato
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=USERNAME&hide_border=true&background=0D1117&stroke=0D1117&ring=6EE7F9&fire=A78BFA&currStreakLabel=6EE7F9&sideNums=8B949E&sideLabels=8B949E&dates=8B949E" />
+<img src="https://streak-stats.demolab.com?user=CODEMASTERSTACK&hide_border=true&background=0D1117&stroke=0D1117&ring=6EE7F9&fire=A78BFA&currStreakLabel=6EE7F9&sideNums=8B949E&sideLabels=8B949E&dates=8B949E" />
 
 </div>
 
