@@ -1,8 +1,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B26&height=210&section=header&text=CODEMASTERSTACK&fontSize=52&fontColor=6EE7F9&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Big%20Data%20Analytics&descAlignY=58&descSize=16&descColor=8B949E" width="100%"/>
 <a href="https://github.com/CODEMASTERSTACK">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=1200&color=A78BFA&center=true&vCenter=true&width=560&lines=Building+SaaS+products+end-to-end;Backend+%E2%86%92+auth+%E2%86%92+data+model+%E2%86%92+UI;Systems-first%2C+detail-obsessed" />
-</a>
+
 
 <div align="center">
 
