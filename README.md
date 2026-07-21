@@ -1,8 +1,9 @@
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B26&height=210&section=header&text=CODEMASTERSTACK&fontSize=52&fontColor=6EE7F9&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Big%20Data%20Analytics&descAlignY=58&descSize=16&descColor=8B949E" width="100%"/>
 <a href="https://github.com/CODEMASTERSTACK">
 
-
+</div>
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&duration=2000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=%5B+SYSTEM+BOOT+%5D+Initializing+profile...+%E2%9C%93;%5B+LOADED+%5D+BCA+%40+LPU+%7C+IBM+Big+Data+Analytics+%E2%9C%93;%5B+STATUS+%5D+Building+the+future%2C+one+commit+at+a+time+%E2%9C%93" alt="Typing SVG" />
