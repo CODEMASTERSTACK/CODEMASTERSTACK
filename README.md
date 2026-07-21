@@ -60,13 +60,13 @@ CURRENTLY_WORKING_ON = [
 ### ◈ Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=C++,python,java,sql,PHP,html,css,js&theme=dark&perline=5" />
 </p>
 
 ### ◈ Databases & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,vscode&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,vscode,cisco packet tracer&theme=dark&perline=5" />
 </p>
 
 ### ◈ Exploring & Learning
