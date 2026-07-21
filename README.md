@@ -62,7 +62,7 @@ I care more about *why* a system is correct than whether it merely works — ato
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=6EE7F9&icon_color=A78BFA&text_color=8B949E" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=6EE7F9&text_color=8B949E" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODEMASTERSTACK&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=6EE7F9&text_color=8B949E" height="165"/>
 
 <br>
 
