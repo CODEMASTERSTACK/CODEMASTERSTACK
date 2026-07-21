@@ -83,22 +83,13 @@ CURRENTLY_WORKING_ON = [
 
 <div align="center">
 
-[![Sarthi](https://img.shields.io/badge/🧭_Sarthi__The_App-View_Repo-58a6ff?style=for-the-badge&labelColor=0d1117&color=1f6feb)](https://github.com/CODEMASTERSTACK/Sarthi---The-App)
+[![Sarthi](https://img.shields.io/badge/Intelligent_RealTime_Trading_System-View_Repo-58a6ff?style=for-the-badge&labelColor=0d1117&color=1f6feb)](https://github.com/CODEMASTERSTACK/Intelligent-Real-Time-Trading-System.git)
 &nbsp;
-[![Spotify Extractor](https://img.shields.io/badge/🎵_Spotify_Extractor-View_Repo-58a6ff?style=for-the-badge&labelColor=0d1117&color=1f6feb)](https://github.com/CODEMASTERSTACK/Spotify-Extractor)
+[![Spotify Extractor](https://img.shields.io/badge/AiTUTOR-View_Repo-58a6ff?style=for-the-badge&labelColor=0d1117&color=1f6feb)](https://github.com/CODEMASTERSTACK/AiTUTOR.git)
 
 </div>
 
 <br>
-
-<div align="center">
-
-|  | Project | Tech | Status |
-|:---:|---------|------|:------:|
-| 💝 | **[UniDate](https://github.com/CODEMASTERSTACK/UniDate)** — College networking app | `Flutter` `Firebase` `Clerk` ` CloudFlare` | 🔨 Building |
-| 🔐 | **[ForgetPass](https://github.com/CODEMASTERSTACK/ForgetPass)** — Secure password manager | `JS` `Firebase` `Encryption` | 🔨 Building |
-| 📚 | **[NotesLibrary](https://github.com/CODEMASTERSTACK/NotesLibrary)** — Student notes platform | `JS` `Firebase` `HTML/CSS` | 🔨 Building |
-| 📖 | **eBook Platform** — Gutenberg API + Drive reader | `JS` `REST API` `Google Drive` | 🌱 Planned |
 
 </div>
 
