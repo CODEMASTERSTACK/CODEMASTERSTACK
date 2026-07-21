@@ -40,14 +40,13 @@
 │  Status   │  Building cool things... 🚀     │
 └─────────────────────────────────────────────┘
 
-CURRENTLY_HACKING_ON = [
+CURRENTLY_WORKING_ON = [
   "UniDate      → Tinder for college students",
-  "ForgetPass   → Secure password manager",
-  "NotesLibrary → Student notes platform",
-  "eBook App    → Gutenberg API + Google Drive",
+  "Intelligent Real Time Trading System   → AI-powered, full-stack trading intelligence platform for Indian stock markets ",
+  "AiTUTOR → MentorScope is a highly advanced, end-to-end AI recruitment and assessment platform.",
+  "CommonCummunicationFabric    → A cross-platform application that enables real-time communication between your phone, PC, and laptop over a local network.",
 ]
 
-FUN_FACT = "I debug with console.log and I'm not ashamed."
 ```
 
 <br clear="right"/>
