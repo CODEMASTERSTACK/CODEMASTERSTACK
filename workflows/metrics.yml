@@ -1,0 +1,91 @@
+name: GitHub Metrics Dashboard
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"   # refresh every 6 hours
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Personal Access Token — see setup notes in the chat reply.
+          # Needs at least: read:user, repo (for private repo stats), read:org (optional)
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # --- Output ---
+          filename: github-metrics.svg
+          committer_message: "chore(metrics): update dashboard [skip ci]"
+
+          # --- Base look ---
+          user: CODEMASTERSTACK
+          template: classic
+          theme: dark
+          base: header, activity, community, repositories, metadata
+
+          # --- Coding habits / recent activity bar chart ---
+          plugin_habits: yes
+          plugin_habits_charts_type: bar
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_from: 100
+
+          # --- Most used languages bar ---
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_threshold: 0%
+          plugin_languages_limit: 8
+
+          # --- Lines of code added/removed ---
+          plugin_lines: yes
+
+          # --- 3D isometric contributions calendar ---
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+          # --- Achievements / badges row ---
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C
+
+          # --- Recent activity feed ---
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_limit: 5
+          plugin_activity_visibility: all
+
+          # --- Suggested tracks (Apple Music) ---
+          plugin_music: yes
+          plugin_music_provider: apple
+          plugin_music_mode: playlist
+          plugin_music_playlist: ""   # add a public playlist URL, or leave blank
+          plugin_music_limit: 4
+
+          # --- Notable / pinned-style repositories ---
+          plugin_notable: yes
+          plugin_notable_from: repositories
+
+          # --- PageSpeed Insights (needs a live URL you own) ---
+          plugin_pagespeed: yes
+          plugin_pagespeed_detailed: yes
+          plugin_pagespeed_screenshot: yes
+          plugin_pagespeed_url: https://your-site.example.com
+
+          # --- Starred repos & topics ---
+          plugin_stars: yes
+          plugin_stars_limit: 4
+          plugin_topics: yes
+          plugin_topics_mode: icons
+
+          # --- Project board (roadmap / todos card) ---
+          plugin_projects: yes
