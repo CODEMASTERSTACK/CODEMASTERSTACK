@@ -65,21 +65,21 @@ jobs:
           plugin_activity_visibility: all
 
           # --- Suggested tracks (Apple Music) ---
-          plugin_music: yes
-          plugin_music_provider: apple
-          plugin_music_mode: playlist
-          plugin_music_playlist: ""   # add a public playlist URL, or leave blank
-          plugin_music_limit: 4
+        #  plugin_music: yes
+         # plugin_music_provider: apple
+         # plugin_music_mode: playlist
+         # plugin_music_playlist: ""   # add a public playlist URL, or leave blank
+         # plugin_music_limit: 4
 
           # --- Notable / pinned-style repositories ---
           plugin_notable: yes
           plugin_notable_from: repositories
 
           # --- PageSpeed Insights (needs a live URL you own) ---
-          plugin_pagespeed: yes
-          plugin_pagespeed_detailed: yes
-          plugin_pagespeed_screenshot: yes
-          plugin_pagespeed_url: https://your-site.example.com
+          #plugin_pagespeed: yes
+          #plugin_pagespeed_detailed: yes
+         # plugin_pagespeed_screenshot: yes
+        #  plugin_pagespeed_url: https://your-site.example.com
 
           # --- Starred repos & topics ---
           plugin_stars: yes
