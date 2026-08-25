@@ -1,0 +1,81 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#05060f"/>
+      <stop offset="55%" stop-color="#0f0b2e"/>
+      <stop offset="100%" stop-color="#1b0f3a"/>
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="50%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="revealClip">
+      <rect x="0" y="0" width="0" height="150">
+        <animate attributeName="width" from="0" to="580" dur="1.8s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@500;600&amp;display=swap');
+      .name { font-family: 'Fira Code', Consolas, monospace; font-weight: 600; }
+      .tag { font-family: 'Fira Code', Consolas, monospace; font-weight: 500; }
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="1200" height="320" rx="24" fill="url(#bgGrad)"/>
+
+  <circle cx="600" cy="150" r="240" fill="url(#glow)">
+    <animate attributeName="r" values="230;270;230" dur="6s" repeatCount="indefinite"/>
+  </circle>
+
+  <rect x="4" y="4" width="1192" height="312" rx="20" fill="none" stroke="url(#borderGrad)" stroke-width="2" stroke-dasharray="2400" stroke-dashoffset="2400">
+    <animate attributeName="stroke-dashoffset" from="2400" to="0" dur="2.4s" begin="0s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+  </rect>
+
+  <circle r="3" fill="#22d3ee" opacity="0.7">
+    <animateMotion dur="9s" repeatCount="indefinite" path="M 120,280 C 160,200 100,120 140,40"/>
+    <animate attributeName="opacity" values="0;0.8;0" dur="9s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="2.5" fill="#a78bfa" opacity="0.6">
+    <animateMotion dur="11s" repeatCount="indefinite" path="M 1080,60 C 1040,140 1100,200 1060,290"/>
+    <animate attributeName="opacity" values="0;0.7;0" dur="11s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="2" fill="#22d3ee" opacity="0.5">
+    <animateMotion dur="7.5s" repeatCount="indefinite" path="M 950,40 C 980,100 930,160 970,260"/>
+    <animate attributeName="opacity" values="0;0.6;0" dur="7.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="2.5" fill="#7c3aed" opacity="0.6">
+    <animateMotion dur="10s" repeatCount="indefinite" path="M 200,50 C 240,120 190,180 230,270"/>
+    <animate attributeName="opacity" values="0;0.7;0" dur="10s" repeatCount="indefinite"/>
+  </circle>
+
+  <g clip-path="url(#revealClip)">
+    <text x="80" y="150" class="name" font-size="64" fill="url(#nameGrad)">KRIPAL SINGH</text>
+  </g>
+  <rect x="80" y="105" width="4" height="56" fill="#22d3ee">
+    <animate attributeName="x" from="80" to="580" dur="1.8s" begin="0.2s" fill="freeze"/>
+    <animate attributeName="opacity" values="1;0;1" dur="0.8s" begin="2s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="82" y="200" class="tag" font-size="22" fill="#c7d2fe" opacity="0">
+    Software Engineer — Logic, Systems &amp; Design
+    <animate attributeName="opacity" from="0" to="1" dur="1s" begin="2.4s" fill="freeze"/>
+  </text>
+
+  <rect x="82" y="216" height="3" width="0" fill="url(#borderGrad)">
+    <animate attributeName="width" from="0" to="520" dur="1s" begin="2.6s" fill="freeze"/>
+  </rect>
+
+  <text x="82" y="270" class="tag" font-size="15" fill="#8b93c9" opacity="0">
+    Full-Stack · Data Engineering · AI-Integrated Systems
+    <animate attributeName="opacity" from="0" to="1" dur="1s" begin="3.1s" fill="freeze"/>
+  </text>
+</svg>
