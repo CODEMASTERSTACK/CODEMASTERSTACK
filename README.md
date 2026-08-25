@@ -1,31 +1,64 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4338ca,100:7c3aed&height=220&section=header&text=Kripal%20Singh&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%7C%20Data%20Engineering%20%7C%20AI-Integrated%20Applications&descAlignY=55&descSize=18" width="100%" alt="header"/>
+<img src="./assets/hero.svg" width="100%" alt="Kripal Singh"/>
 
 <a href="https://github.com/CODEMASTERSTACK">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+%2B+Data+Engineering;Building+AI-Integrated+Apps;Cloud+%26+Backend+Systems;Always+Shipping+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&pause=2400&color=8B93C9&center=true&vCenter=true&width=720&lines=Clean+logic+over+clever+hacks.;Design+that+serves+the+problem%2C+not+the+ego.;Useful+beats+impressive.;Systems+that+scale+quietly." alt="philosophy"/>
 </a>
 
-<br/>
+<br/><br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/CODEMASTERSTACK?label=Follow&style=for-the-badge&color=7c3aed&logo=github&logoColor=white)](https://github.com/CODEMASTERSTACK)
-[![Profile views](https://komarev.com/ghpvc/?username=CODEMASTERSTACK&color=7c3aed&style=for-the-badge&label=Profile+Views)](https://github.com/CODEMASTERSTACK)
-[![Location](https://img.shields.io/badge/India-based-4338ca?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Followers](https://img.shields.io/github/followers/CODEMASTERSTACK?label=Follow&style=for-the-badge&color=7c3aed&logo=github&logoColor=white)](https://github.com/CODEMASTERSTACK)
+[![Profile Views](https://komarev.com/ghpvc/?username=CODEMASTERSTACK&color=22d3ee&style=for-the-badge&label=Profile+Views)](https://github.com/CODEMASTERSTACK)
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,100:7c3aed&height=3&width=1200" width="100%"/>
 
-## About Me
+## About
 
-- 🎓 BCA student specializing in **Big Data Analytics**
-- 🛠️ Software engineer working across **full-stack development, data engineering, and AI-integrated applications**
-- ☁️ Hands-on with **backend systems and cloud infrastructure**
-- 📍 Based in India
-- 💬 Ask me about backend architecture, data pipelines, or wiring AI into production apps
-- 📫 Reach me at **[your.email@example.com]** · **[LinkedIn]** · **[Portfolio]** — *(swap these placeholders for your real links)*
+I care more about *why* something works than just that it does. My day-to-day spans full-stack development, data engineering, and wiring AI into applications that need to hold up in production — not demos. I spend real time on backend architecture and cloud infrastructure, but the constant across all of it is the same: solve the actual problem, keep the logic honest, and don't add complexity the design doesn't need.
 
-<br/>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🧠 Logic-first**
+Optimize for correctness and clarity before cleverness — code that's still easy to reason about six months later.
+
+</td>
+<td width="50%" valign="top">
+
+**🏗️ System design**
+Backend architecture and cloud infrastructure built to scale without becoming unmanageable.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🔗 AI-integrated apps**
+Wiring language models and data pipelines into products people actually use, not proof-of-concepts.
+
+</td>
+<td width="50%" valign="top">
+
+**🎯 Useful over impressive**
+A plain solution that solves the real problem beats a clever one that doesn't.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-your.email%40example.com-1b0f3a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kripalsingh.work@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1b0f3a?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/kripal-singhh)
+
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,100:7c3aed&height=3&width=1200" width="100%"/>
 
 ## 📊 GitHub Metrics Dashboard
 
@@ -37,33 +70,33 @@
 
 </div>
 
-> This dashboard is generated automatically by the `metrics.yml` workflow (via [lowlighter/metrics](https://github.com/lowlighter/metrics)) and committed back into this repo — the same engine that powers the reference dashboard. It will appear once the workflow runs for the first time in your repo (see setup notes below).
+> Generated automatically by `metrics.yml` (via [lowlighter/metrics](https://github.com/lowlighter/metrics)) and committed back into this repo.
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,100:7c3aed&height=3&width=1200" width="100%"/>
 
 ## 📈 Stats at a Glance
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CODEMASTERSTACK&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.demolab.com/?user=CODEMASTERSTACK&theme=radical&hide_border=true&cache_seconds=86400" width="49%" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=CODEMASTERSTACK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.demolab.com/?user=CODEMASTERSTACK&theme=tokyonight&hide_border=true&cache_seconds=86400" width="49%" alt="GitHub Streak"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODEMASTERSTACK&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" width="49%" alt="Top Languages"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CODEMASTERSTACK&theme=react-dark&hide_border=true&area=true" width="49%" alt="Activity Graph"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODEMASTERSTACK&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="49%" alt="Top Languages"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CODEMASTERSTACK&theme=tokyo-night&hide_border=true&area=true" width="49%" alt="Activity Graph"/>
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,100:7c3aed&height=3&width=1200" width="100%"/>
 
 ## 🏆 Trophies
 
 <div align="center">
 
-![trophies](https://github-profile-trophy.vercel.app/?username=CODEMASTERSTACK&theme=radical&no-frame=true&no-bg=false&row=1&column=7&margin-w=8)
+![trophies](https://github-profile-trophy.vercel.app/?username=CODEMASTERSTACK&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8)
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,100:7c3aed&height=3&width=1200" width="100%"/>
 
 ## 🧰 Tech Stack
 
@@ -73,9 +106,9 @@
 
 </div>
 
-> *Placeholder icon set — swap the `i=` list in the URL above for the exact stack you actually use.*
+> *Placeholder icon set — swap the `i=` list in the URL for the exact stack you actually use.*
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,100:7c3aed&height=3&width=1200" width="100%"/>
 
 ## 🐍 Contribution Snake
 
@@ -89,12 +122,8 @@
 
 </div>
 
-> Generated by the `snake.yml` workflow, which eats your contribution graph and pushes the animated SVG to an `output` branch.
-
-<br/>
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4338ca,100:0f172a&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:7c3aed,50:4338ca,100:0f172a&height=110&section=footer" width="100%" alt="footer"/>
 
 </div>
