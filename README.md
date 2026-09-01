@@ -15,7 +15,7 @@ Software engineers focus on clean logic, thoughtful system design, and building 
 - 🏗️ Backend and cloud systems built to scale
 - 🎯 Useful over impressive
 
-[Email](mailto:your.email@example.com) · [LinkedIn](https://linkedin.com/in/yourhandle) · [Portfolio](https://yourportfolio.example.com)
+[Email](mailto:kripalsingh.work@gmail.com) · [LinkedIn](https://linkedin.com/in/Kripal-singhh) 
 
 ---
 
