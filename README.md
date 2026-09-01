@@ -9,7 +9,7 @@
 
 ## About
 
-Software engineer focused on clean logic, thoughtful system design, and building things that are genuinely useful. I work across full-stack development, data engineering, and AI-integrated applications, with a strong focus on backend systems and cloud infrastructure.
+Software engineers focus on clean logic, thoughtful system design, and building things that are genuinely useful. I work across full-stack development, data engineering, and AI-integrated applications, with a strong focus on backend systems and cloud infrastructure.
 
 - 🧠 Correctness and clarity before cleverness
 - 🏗️ Backend and cloud systems built to scale
@@ -35,7 +35,7 @@ Software engineer focused on clean logic, thoughtful system design, and building
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,nodejs,express,go,mongodb,postgres,redis,docker,kubernetes,aws,gcp,firebase,git,github,linux,tailwind&theme=dark" alt="tech stack"/>
+<img src="https://skillicons.dev/icons?i=c++,java,py,sql,flutter,mongodb,postgres,redis,docker,kubernetes,aws,gcp,firebase,git,github,linux,tailwind&theme=dark" alt="tech stack"/>
 
 </div>
 
