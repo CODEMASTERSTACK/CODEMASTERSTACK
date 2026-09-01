@@ -35,7 +35,15 @@ Software engineers focus on clean logic, thoughtful system design, and building 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c++,java,py,sql,flutter,mongodb,postgres,redis,docker,kubernetes,aws,gcp,firebase,git,github,linux,tailwind&theme=dark" alt="tech stack"/>
+<!-- Primary Skill Icons -->
+<img src="https://skillicons.dev/icons?i=cpp,java,py,sql,flutter,mongodb,postgres,redis,docker,kubernetes,aws,gcp,firebase,git,github,linux,tailwind&theme=dark" alt="tech stack"/>
+
+<br><br>
+
+<!-- Specialized Tools & Additional Skills -->
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Power Bi](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 </div>
 
