@@ -47,6 +47,9 @@ Software engineers focus on clean logic, thoughtful system design, and building 
 
 </div>
 
+## Contribution Island
+
+![Git Koi Pond](https://raw.githubusercontent.com/CODEMASTERSTACK/CODEMASTERSTACK/output/koi.gif)
 
 
 </div>
