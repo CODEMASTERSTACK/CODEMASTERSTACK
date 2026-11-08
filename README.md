@@ -49,14 +49,9 @@ Software engineers focus on clean logic, thoughtful system design, and building 
 
 ---
 
-## Contribution Snake
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CODEMASTERSTACK/CODEMASTERSTACK/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CODEMASTERSTACK/CODEMASTERSTACK/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/CODEMASTERSTACK/CODEMASTERSTACK/output/github-contribution-grid-snake.svg"/>
-</picture>
+- name: git-profile-koi
+  uses: yalongwastaken/git-koi@v1.0.2
 
 </div>
