@@ -17,7 +17,8 @@ jobs:
       - name: git-profile-koi
         uses: yalongwastaken/git-koi@v1.0.2
         with:
-          github_user_name: CODEMASTERSTACK
+          login: CODEMASTERSTACK
+          output-dir: dist
 
       - name: Push generated SVG to output branch
         uses: crazy-max/ghaction-github-pages@v4
