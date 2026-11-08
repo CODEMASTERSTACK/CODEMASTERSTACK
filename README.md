@@ -47,11 +47,6 @@ Software engineers focus on clean logic, thoughtful system design, and building 
 
 </div>
 
----
 
-
-<div align="center">
-- name: git-profile-koi
-  uses: yalongwastaken/git-koi@v1.0.2
 
 </div>
