@@ -24,7 +24,7 @@ Software engineers focus on clean logic, thoughtful system design, and building 
 <div align="center">
 
 <!--START_METRICS-->
-<img src="./github-metrics.svg" width="50%" alt="GitHub metrics dashboard"/>
+<img src="./github-metrics.svg" width="50%" height="50%" alt="GitHub metrics dashboard"/>
 <!--END_METRICS-->
 
 </div>
